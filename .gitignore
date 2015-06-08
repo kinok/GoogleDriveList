@@ -1,0 +1,7 @@
+*.csv
+*.p12
+.idea
+composer.lock
+composer.phar
+config.ini
+vendor/

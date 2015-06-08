@@ -1,0 +1,11 @@
+{
+    "require": {
+        "google/apiclient": "1.1.4",
+        "symfony/console": "2.7.0"
+    },
+    "autoload": {
+      "psr-0": {
+        "GoogleDriveList": "vendor"
+      }
+    }
+}
